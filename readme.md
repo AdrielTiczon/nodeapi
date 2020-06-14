@@ -10,6 +10,6 @@
 
 ### What is this api using and built with
 
-This application is built with nodeJS using the Express framework. <br>
-The database used is a noSQL database which is MongoDB. <br>
-Mongoose is included aswell to assist in doing mongodb transactions.
+This application is built with **nodeJS** using the **Express framework**. <br>
+The database used is a **noSQL database** which is **MongoDB.** <br>
+**Mongoose** is included aswell to assist in doing mongodb transactions.
